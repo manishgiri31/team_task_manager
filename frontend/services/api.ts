@@ -9,7 +9,6 @@ export const api = axios.create({
     "Content-Type": "application/json",
   },
 });
-console.log("API_BASE_URL:", API_BASE_URL);
 api.interceptors.request.use((config) => {
   const token = tokenStorage.get();
   if (token) {
