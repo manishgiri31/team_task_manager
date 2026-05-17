@@ -10,7 +10,7 @@ https://team-task-manager-ashy-ten.vercel.app
 
 Backend API Docs
 
-https://teamtaskmanager-production-f959.up.railway.app/docs
+https://teamtaskmanager-production-1dc5.up.railway.app/docs
 
 📌 Project Overview
 
